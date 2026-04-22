@@ -1,0 +1,13 @@
+{
+  "name": "gen-ai-kata",
+  "version": "1.0.0",
+  "description": "AI agent for generating frontend React code",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
