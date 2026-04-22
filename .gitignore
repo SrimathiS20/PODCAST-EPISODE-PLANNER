@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment (contains API keys)
+.env
+
+# Generated output
+output/
+
+# Development artifacts
+login-preview/
+pixelcraft-extension/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lock files (optional — remove this line if you want to commit package-lock.json)
+package-lock.json
